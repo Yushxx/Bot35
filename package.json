@@ -1,7 +1,7 @@
 {
-  "name": "telegram-bot",
+  "name": "telegram-bot-project",
   "version": "1.0.0",
-  "description": "Telegram bot for handling join requests and sending videos.",
+  "description": "A Telegram bot to handle join requests and interact with users.",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
@@ -12,7 +12,7 @@
     "axios": "^1.5.1"
   },
   "engines": {
-    "node": ">=14"
+    "node": ">=14.0.0"
   },
   "author": "Your Name",
   "license": "MIT"
